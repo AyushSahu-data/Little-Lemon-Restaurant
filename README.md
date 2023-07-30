@@ -14,7 +14,7 @@
 <p align="center"> 
     <br />&#10023;
     <a href="#Quick-Start">Quick Start</a>   &#10023;    
-    <a href="https://github.com/sumit-sharma-02/little-lemon-restaurant/issues">Report Bug</a>   &#10023;
+    <a href="https://github.com/AyushSahu-data/Little-Lemon-Restaurant/issues">Report Bug</a>   &#10023;
     <a href="#Contact">Author</a>&#10023;
   </p>
   
